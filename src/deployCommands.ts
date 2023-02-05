@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 import dotenv from 'dotenv';
-import { REST, Routes } from 'discord.js';
 dotenv.config();
+import { REST, Routes } from 'discord.js';
 import path from 'path';
 import fs from 'fs';
 
