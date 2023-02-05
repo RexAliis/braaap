@@ -19,9 +19,9 @@ npm run depl
 
 # Variables de entorno
 
-`BOT_TOKEN`*: Token del bot.
-`BOT_INTENTS`*: Bit que indica que intents se le otorgaron al bot, puede calcularse [aquí.](https://discord-intents-calculator.vercel.app/).
-`APP_ID`*: ID de la aplicación/bot.
-`GUILD_ID`: Servidor de Discord principal del bot, por ahora solo se utiliza en el deploy de comandos, recomendado llenar.
+- `BOT_TOKEN`*: Token del bot.
+- `BOT_INTENTS`*: Bit que indica que intents se le otorgaron al bot, puede calcularse [aquí.](https://discord-intents-calculator.vercel.app/).
+- `APP_ID`*: ID de la aplicación/bot.
+- `GUILD_ID`: Servidor de Discord principal del bot, por ahora solo se utiliza en el deploy de comandos, recomendado llenar.
 
 `*` = Obligatorio para que funcione correctamente.
