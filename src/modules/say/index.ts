@@ -12,7 +12,7 @@ client.on('interactionCreate', interaction => {
 
 	interaction.channel?.send(text);
 	interaction.reply({
-		'content': 'Hecho.',
+		content: 'Hecho.',
 		ephemeral: true
 	});
 });
